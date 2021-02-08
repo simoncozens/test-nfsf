@@ -3,31 +3,17 @@
       "width": 654, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 334, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 334, 0]}
       ], 
-      "_background": "a7e0b4a8-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecf5be0-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e0b4a8-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecf5be0-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 654, 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 334, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 334, 0]}
       ], 
       "isBackground": True
 }
@@ -36,31 +22,17 @@
       "width": 718, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 362, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 362, 0]}
       ], 
-      "_background": "a7e0b6ba-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecf5dfc-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e0b6ba-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecf5dfc-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 718, 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 362, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 362, 0]}
       ], 
       "isBackground": True
 }
@@ -69,31 +41,17 @@
       "width": 654, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 395, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 395, 0]}
       ], 
-      "_background": "a7e0b8cc-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecf5ffa-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e0b8cc-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecf5ffa-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 654, 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 395, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 395, 0]}
       ], 
       "isBackground": True
 }
@@ -102,31 +60,17 @@
       "width": 718, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 420, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 420, 0]}
       ], 
-      "_background": "a7e0bad4-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecf6220-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e0bad4-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecf6220-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 718, 
       "shapes": [
-                {
-          "ref": "R"
-}
-, 
-                {
-          "ref": "breveinvertedcomb.case", 
-          "transform": [1, 0, 0, 1, 420, 0]
-}
-
+        {"ref": "R"}, 
+        {"ref": "breveinvertedcomb.case", "transform": [1, 0, 0, 1, 420, 0]}
       ], 
       "isBackground": True
 }

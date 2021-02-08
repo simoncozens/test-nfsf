@@ -3,31 +3,17 @@
       "width": 748, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 374, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 374, 0]}
       ], 
-      "_background": "a80204e6-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef10c0e-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80204e6-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef10c0e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 748, 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 374, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 374, 0]}
       ], 
       "isBackground": True
 }
@@ -36,31 +22,17 @@
       "width": 908, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 454, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 454, 0]}
       ], 
-      "_background": "a80206e4-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef10e16-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80206e4-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef10e16-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 908, 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 454, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 454, 0]}
       ], 
       "isBackground": True
 }
@@ -69,31 +41,17 @@
       "width": 748, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 412, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 412, 0]}
       ], 
-      "_background": "a80208ec-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef11014-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80208ec-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef11014-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 748, 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 412, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 412, 0]}
       ], 
       "isBackground": True
 }
@@ -102,31 +60,17 @@
       "width": 908, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 491, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 491, 0]}
       ], 
-      "_background": "a8020b12-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef11230-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8020b12-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef11230-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 908, 
       "shapes": [
-                {
-          "ref": "zhe-cy"
-}
-, 
-                {
-          "ref": "brevecomb-cy", 
-          "transform": [1, 0, 0, 1, 491, 0]
-}
-
+        {"ref": "zhe-cy"}, 
+        {"ref": "brevecomb-cy", "transform": [1, 0, 0, 1, 491, 0]}
       ], 
       "isBackground": True
 }

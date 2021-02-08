@@ -3,33 +3,15 @@
       "width": 202, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "minute",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a8099602-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef8af0e-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8099602-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef8af0e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 202, 
       "shapes": [
-                {
-          "ref": "minute",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -38,33 +20,15 @@
       "width": 283, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "minute",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a80997b0-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef8b062-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80997b0-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef8b062-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 283, 
       "shapes": [
-                {
-          "ref": "minute",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -73,33 +37,15 @@
       "width": 202, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "minute",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a809994a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef8b1b6-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a809994a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef8b1b6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 202, 
       "shapes": [
-                {
-          "ref": "minute",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -108,35 +54,15 @@
       "width": 283, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "minute", 
-          "transform": [1, 0, 0, 1, 1, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute", "transform": [1, 0, 0, 1, 1, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a8099ae4-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef8b30a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8099ae4-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef8b30a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 283, 
       "shapes": [
-                {
-          "ref": "minute", 
-          "transform": [1, 0, 0, 1, 1, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "minute", "transform": [1, 0, 0, 1, 1, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }

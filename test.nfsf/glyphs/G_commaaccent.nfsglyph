@@ -3,31 +3,17 @@
       "width": 718, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 390, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 390, 0]}
       ], 
-      "_background": "a7dd6e6a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecc1d18-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dd6e6a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecc1d18-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 718, 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 390, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 390, 0]}
       ], 
       "isBackground": True
 }
@@ -36,31 +22,17 @@
       "width": 754, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 426, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 426, 0]}
       ], 
-      "_background": "a7dd707c-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecc1f20-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dd707c-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecc1f20-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 754, 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 426, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 426, 0]}
       ], 
       "isBackground": True
 }
@@ -69,31 +41,17 @@
       "width": 718, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 372, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 372, 0]}
       ], 
-      "_background": "a7dd728e-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecc213c-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dd728e-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecc213c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 718, 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 372, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 372, 0]}
       ], 
       "isBackground": True
 }
@@ -102,31 +60,17 @@
       "width": 754, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 407, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 407, 0]}
       ], 
-      "_background": "a7dd74aa-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecc2358-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dd74aa-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecc2358-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 754, 
       "shapes": [
-                {
-          "ref": "G"
-}
-, 
-                {
-          "ref": "commaaccentcomb", 
-          "transform": [1, 0, 0, 1, 407, 0]
-}
-
+        {"ref": "G"}, 
+        {"ref": "commaaccentcomb", "transform": [1, 0, 0, 1, 407, 0]}
       ], 
       "isBackground": True
 }

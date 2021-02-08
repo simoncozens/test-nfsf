@@ -3,21 +3,15 @@
       "width": 751, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
-      "_background": "a7f56f74-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee47778-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f56f74-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee47778-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 751, 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
       "isBackground": True
 }
@@ -26,21 +20,15 @@
       "width": 820, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
-      "_background": "a7f570dc-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee478d6-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f570dc-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee478d6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 820, 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
       "isBackground": True
 }
@@ -49,21 +37,15 @@
       "width": 751, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
-      "_background": "a7f57226-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee47a2a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f57226-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee47a2a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 751, 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
       "isBackground": True
 }
@@ -72,21 +54,15 @@
       "width": 820, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
-      "_background": "a7f5737a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee47b74-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f5737a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee47b74-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 820, 
       "shapes": [
-                {
-          "ref": "Obarred-cy"
-}
-
+        {"ref": "Obarred-cy"}
       ], 
       "isBackground": True
 }

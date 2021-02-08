@@ -8,21 +8,14 @@
 }
 
       ], 
-      "_background": "a7f15344-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee03e1a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f15344-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee03e1a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 545, 
       "shapes": [
-                {
-          "ref": "u"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 460, 0]
-}
-
+        {"ref": "u"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 460, 0]}
       ], 
       "isBackground": True
 }
@@ -36,21 +29,14 @@
 }
 
       ], 
-      "_background": "a7f155a6-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee0407c-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f155a6-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee0407c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 613, 
       "shapes": [
-                {
-          "ref": "u"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 499, 0]
-}
-
+        {"ref": "u"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 499, 0]}
       ], 
       "isBackground": True
 }
@@ -64,21 +50,14 @@
 }
 
       ], 
-      "_background": "a7f15812-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee042e8-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f15812-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee042e8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 545, 
       "shapes": [
-                {
-          "ref": "u"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 421, 0]
-}
-
+        {"ref": "u"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 421, 0]}
       ], 
       "isBackground": True
 }
@@ -92,21 +71,14 @@
 }
 
       ], 
-      "_background": "a7f167c6-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee05260-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f167c6-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee05260-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 613, 
       "shapes": [
-                {
-          "ref": "u"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 457, 0]
-}
-
+        {"ref": "u"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 457, 0]}
       ], 
       "isBackground": True
 }

@@ -3,21 +3,15 @@
       "width": 844, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
-      "_background": "a7f46dae-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee37238-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f46dae-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee37238-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 844, 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
       "isBackground": True
 }
@@ -26,21 +20,15 @@
       "width": 893, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
-      "_background": "a7f46f20-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee373b4-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f46f20-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee373b4-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 893, 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
       "isBackground": True
 }
@@ -49,21 +37,15 @@
       "width": 844, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
-      "_background": "a7f4707e-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee37526-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f4707e-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee37526-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 844, 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
       "isBackground": True
 }
@@ -72,21 +54,15 @@
       "width": 893, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
-      "_background": "a7f471c8-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee3767a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f471c8-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee3767a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 893, 
       "shapes": [
-                {
-          "ref": "M"
-}
-
+        {"ref": "M"}
       ], 
       "isBackground": True
 }

@@ -3,35 +3,15 @@
       "width": 500, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a80ae426-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef9fe04-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80ae426-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef9fe04-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 500, 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -40,35 +20,15 @@
       "width": 500, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a80ae66a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef9ff8a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80ae66a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef9ff8a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 500, 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -77,23 +37,15 @@
       "width": 500, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 288, 0]
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 288, 0]}
       ], 
-      "_background": "a80ae7d2-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1efa00de-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80ae7d2-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1efa00de-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 500, 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 288, 0]
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 288, 0]}
       ], 
       "isBackground": True
 }
@@ -102,29 +54,15 @@
       "width": 500, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 288, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 288, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a80ae926-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1efa0232-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80ae926-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1efa0232-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 500, 
       "shapes": [
-                {
-          "ref": "tildecomb", 
-          "transform": [1, 0, 0, 1, 288, 0]
-}
-
+        {"ref": "tildecomb", "transform": [1, 0, 0, 1, 288, 0]}
       ], 
       "isBackground": True
 }

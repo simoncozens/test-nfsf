@@ -8,21 +8,14 @@
 }
 
       ], 
-      "_background": "a7f695c0-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee5963a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f695c0-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee5963a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 657, 
       "shapes": [
-                {
-          "ref": "Che-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.case.mirror", 
-          "transform": [1, 0, 0, 1, 514, 0]
-}
-
+        {"ref": "Che-cy"}, 
+        {"ref": "__descender-cy.case.mirror", "transform": [1, 0, 0, 1, 514, 0]}
       ], 
       "isBackground": True
 }
@@ -36,21 +29,14 @@
 }
 
       ], 
-      "_background": "a7f69836-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee5989c-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f69836-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee5989c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 767, 
       "shapes": [
-                {
-          "ref": "Che-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.case.mirror", 
-          "transform": [1, 0, 0, 1, 439, 0]
-}
-
+        {"ref": "Che-cy"}, 
+        {"ref": "__descender-cy.case.mirror", "transform": [1, 0, 0, 1, 439, 0]}
       ], 
       "isBackground": True
 }
@@ -68,21 +54,14 @@
 }
 
       ], 
-      "_background": "a7f69a7a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee59ae0-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f69a7a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee59ae0-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 695, 
       "shapes": [
-                {
-          "ref": "Che-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.case.mirror", 
-          "transform": [1, 0, 0, 1, 519, 0]
-}
-
+        {"ref": "Che-cy"}, 
+        {"ref": "__descender-cy.case.mirror", "transform": [1, 0, 0, 1, 519, 0]}
       ], 
       "isBackground": True
 }
@@ -96,21 +75,14 @@
 }
 
       ], 
-      "_background": "a7f69caa-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee59d06-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f69caa-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee59d06-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 774, 
       "shapes": [
-                {
-          "ref": "Che-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.case.mirror", 
-          "transform": [1, 0, 0, 1, 461, 0]
-}
-
+        {"ref": "Che-cy"}, 
+        {"ref": "__descender-cy.case.mirror", "transform": [1, 0, 0, 1, 461, 0]}
       ], 
       "isBackground": True
 }

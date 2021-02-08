@@ -3,41 +3,19 @@
       "width": 514, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 262, 0]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 265, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 262, 0]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 265, 0]}
       ], 
-      "_background": "a7e9e028-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ed8dab2-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e9e028-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ed8dab2-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 514, 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 262, 0]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 265, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 262, 0]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 265, 0]}
       ], 
       "isBackground": True
 }
@@ -46,41 +24,19 @@
       "width": 580, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 288, 0]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 293, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 288, 0]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 293, 0]}
       ], 
-      "_background": "a7e9e370-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ed8dd96-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e9e370-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ed8dd96-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 580, 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 288, 0]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 293, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 288, 0]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 293, 0]}
       ], 
       "isBackground": True
 }
@@ -89,41 +45,19 @@
       "width": 514, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 228, 0]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 300, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 228, 0]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 300, 0]}
       ], 
-      "_background": "a7e9e67c-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ed8e084-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e9e67c-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ed8e084-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 514, 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 228, 0]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 300, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 228, 0]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 300, 0]}
       ], 
       "isBackground": True
 }
@@ -132,41 +66,19 @@
       "width": 580, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 259, -1]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 320, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 259, -1]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 320, 0]}
       ], 
-      "_background": "a7e9e956-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ed8e354-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e9e956-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ed8e354-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 580, 
       "shapes": [
-                {
-          "ref": "a"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 259, 0]
-}
-, 
-                {
-          "ref": "circumflexcomb", 
-          "transform": [1, 0, 0, 1, 320, 0]
-}
-
+        {"ref": "a"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 259, 0]}, 
+        {"ref": "circumflexcomb", "transform": [1, 0, 0, 1, 320, 0]}
       ], 
       "isBackground": True
 }

@@ -8,27 +8,14 @@
 }
 
       ], 
-      "_background": "a802e0c8-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef1e89a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a802e0c8-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef1e89a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 415, 
       "shapes": [
-                {
-          "ref": "ge-cy",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "__descender-cy", 
-          "transform": [1, 0, 0, 1, 88, 0]
-}
-
+        {"ref": "ge-cy","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__descender-cy", "transform": [1, 0, 0, 1, 88, 0]}
       ], 
       "isBackground": True
 }
@@ -42,27 +29,14 @@
 }
 
       ], 
-      "_background": "a802e2d0-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef1eaac-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a802e2d0-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef1eaac-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 500, 
       "shapes": [
-                {
-          "ref": "ge-cy",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "__descender-cy", 
-          "transform": [1, 0, 0, 1, 68, 0]
-}
-
+        {"ref": "ge-cy","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__descender-cy", "transform": [1, 0, 0, 1, 68, 0]}
       ], 
       "isBackground": True
 }
@@ -76,27 +50,14 @@
 }
 
       ], 
-      "_background": "a802e4ba-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef1ec82-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a802e4ba-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef1ec82-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 415, 
       "shapes": [
-                {
-          "ref": "ge-cy",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "__descender-cy", 
-          "transform": [1, 0, 0, 1, 88, 0]
-}
-
+        {"ref": "ge-cy","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__descender-cy", "transform": [1, 0, 0, 1, 88, 0]}
       ], 
       "isBackground": True
 }
@@ -110,27 +71,14 @@
 }
 
       ], 
-      "_background": "a802e6b8-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef1ee80-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a802e6b8-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef1ee80-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 500, 
       "shapes": [
-                {
-          "ref": "ge-cy",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "__descender-cy", 
-          "transform": [1, 0, 0, 1, 73, 0]
-}
-
+        {"ref": "ge-cy","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__descender-cy", "transform": [1, 0, 0, 1, 73, 0]}
       ], 
       "isBackground": True
 }

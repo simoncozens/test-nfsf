@@ -8,21 +8,14 @@
 }
 
       ], 
-      "_background": "a8014ce0-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef0514c-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8014ce0-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef0514c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 531, 
       "shapes": [
-                {
-          "ref": "ka-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.cy", 
-          "transform": [1, 0, 0, 1, 444, 0]
-}
-
+        {"ref": "ka-cy"}, 
+        {"ref": "__descender-cy.cy", "transform": [1, 0, 0, 1, 444, 0]}
       ], 
       "isBackground": True
 }
@@ -36,21 +29,14 @@
 }
 
       ], 
-      "_background": "a8014f10-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef05390-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8014f10-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef05390-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 676, 
       "shapes": [
-                {
-          "ref": "ka-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.cy", 
-          "transform": [1, 0, 0, 1, 438, 0]
-}
-
+        {"ref": "ka-cy"}, 
+        {"ref": "__descender-cy.cy", "transform": [1, 0, 0, 1, 438, 0]}
       ], 
       "isBackground": True
 }
@@ -64,21 +50,14 @@
 }
 
       ], 
-      "_background": "a801514a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef055c0-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a801514a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef055c0-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 531, 
       "shapes": [
-                {
-          "ref": "ka-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.cy", 
-          "transform": [1, 0, 0, 1, 447, 0]
-}
-
+        {"ref": "ka-cy"}, 
+        {"ref": "__descender-cy.cy", "transform": [1, 0, 0, 1, 447, 0]}
       ], 
       "isBackground": True
 }
@@ -92,21 +71,14 @@
 }
 
       ], 
-      "_background": "a8015384-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef0594e-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8015384-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef0594e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 676, 
       "shapes": [
-                {
-          "ref": "ka-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.cy", 
-          "transform": [1, 0, 0, 1, 438, 0]
-}
-
+        {"ref": "ka-cy"}, 
+        {"ref": "__descender-cy.cy", "transform": [1, 0, 0, 1, 438, 0]}
       ], 
       "isBackground": True
 }

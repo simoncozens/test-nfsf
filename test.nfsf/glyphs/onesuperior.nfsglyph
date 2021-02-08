@@ -3,35 +3,15 @@
       "width": 380, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 0, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 0, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
-      "_background": "a8052df6-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef438ca-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8052df6-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef438ca-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 380, 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 0, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 0, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
       "isBackground": True
 }
@@ -40,35 +20,15 @@
       "width": 380, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 0, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 0, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
-      "_background": "a8052f4a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef43a28-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8052f4a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef43a28-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 380, 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 0, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 0, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
       "isBackground": True
 }
@@ -77,35 +37,15 @@
       "width": 380, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 45, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 45, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
-      "_background": "a805309e-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef43b72-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a805309e-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef43b72-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 380, 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 45, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 45, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
       "isBackground": True
 }
@@ -114,35 +54,15 @@
       "width": 380, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 45, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 45, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
-      "_background": "a805322e-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef43cda-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a805322e-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef43cda-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 380, 
       "shapes": [
-                {
-          "ref": "one.dnom", 
-          "transform": [1, 0, 0, 1, 45, 282],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": 1
-  }
-}
-}
-
+        {"ref": "one.dnom", "transform": [1, 0, 0, 1, 45, 282],"_":{"com.glyphsapp":{"alignment":1}}}
       ], 
       "isBackground": True
 }

@@ -3,21 +3,15 @@
       "width": 598, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
-      "_background": "a80327cc-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef22f58-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80327cc-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef22f58-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 598, 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
       "isBackground": True
 }
@@ -26,21 +20,15 @@
       "width": 670, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
-      "_background": "a8032916-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef230c0-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8032916-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef230c0-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 670, 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
       "isBackground": True
 }
@@ -49,21 +37,15 @@
       "width": 598, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
-      "_background": "a8032a56-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef2320a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8032a56-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef2320a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 598, 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
       "isBackground": True
 }
@@ -72,21 +54,15 @@
       "width": 670, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
-      "_background": "a8032bc8-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef23372-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8032bc8-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef23372-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 670, 
       "shapes": [
-                {
-          "ref": "yat-cy"
-}
-
+        {"ref": "yat-cy"}
       ], 
       "isBackground": True
 }

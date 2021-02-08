@@ -3,31 +3,17 @@
       "width": 971, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 486, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 486, 0]}
       ], 
-      "_background": "a7dbbcd2-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1eca6626-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dbbcd2-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1eca6626-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 971, 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 486, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 486, 0]}
       ], 
       "isBackground": True
 }
@@ -36,31 +22,17 @@
       "width": 1014, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 490, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 490, 0]}
       ], 
-      "_background": "a7dbbf02-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1eca6874-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dbbf02-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1eca6874-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 1014, 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 490, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 490, 0]}
       ], 
       "isBackground": True
 }
@@ -69,31 +41,17 @@
       "width": 971, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 544, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 544, 0]}
       ], 
-      "_background": "a7dbc114-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1eca6a90-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dbc114-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1eca6a90-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 971, 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 544, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 544, 0]}
       ], 
       "isBackground": True
 }
@@ -102,31 +60,17 @@
       "width": 1014, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 552, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 552, 0]}
       ], 
-      "_background": "a7dbc326-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1eca6ca2-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7dbc326-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1eca6ca2-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 1014, 
       "shapes": [
-                {
-          "ref": "AE"
-}
-, 
-                {
-          "ref": "acutecomb.case", 
-          "transform": [1, 0, 0, 1, 552, 0]
-}
-
+        {"ref": "AE"}, 
+        {"ref": "acutecomb.case", "transform": [1, 0, 0, 1, 552, 0]}
       ], 
       "isBackground": True
 }

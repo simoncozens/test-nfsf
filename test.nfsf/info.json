@@ -1,8 +1,8 @@
 {
   "version": [3, 600], 
   "axes": [
-    {"name": "Weight", "tag": "wght", "id": "a7daaebe-6a2c-11eb-825b-3c7d0a0dfbfe", "min": 42, "max": 208, "default": 42}, 
-    {"name": "Italic", "tag": "ital", "id": "a7dab06c-6a2c-11eb-825b-3c7d0a0dfbfe", "max": 9}
+    {"name": "Weight", "tag": "wght", "id": "1ec94e58-6a2e-11eb-8d73-3c7d0a0dfbfe", "min": 42, "max": 208, "default": 42}, 
+    {"name": "Italic", "tag": "ital", "id": "1ec94fe8-6a2e-11eb-8d73-3c7d0a0dfbfe", "max": 9}
   ], 
   "instances": [
     {"name": "ExtraLight", "location": {"Weight": 42, "Italic": 0}}, 

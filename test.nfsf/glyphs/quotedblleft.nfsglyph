@@ -3,55 +3,17 @@
       "width": 351, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 140, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 140, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a8065f50-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef56e16-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8065f50-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef56e16-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 351, 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 140, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 140, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -60,55 +22,17 @@
       "width": 535, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a80661a8-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef5706e-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80661a8-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef5706e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 535, 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -117,55 +41,17 @@
       "width": 351, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 140, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 140, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a80663ba-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef5728a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80663ba-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef5728a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 351, 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 140, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 140, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }
@@ -174,55 +60,17 @@
       "width": 535, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "a80665e0-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef574ba-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80665e0-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef574ba-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 535, 
       "shapes": [
-                {
-          "ref": "quoteleft",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "quoteleft", 
-          "transform": [1, 0, 0, 1, 250, 0],
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-
+        {"ref": "quoteleft","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "quoteleft", "transform": [1, 0, 0, 1, 250, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }

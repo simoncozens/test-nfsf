@@ -8,27 +8,14 @@
 }
 
       ], 
-      "_background": "a8022ed0-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef13620-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8022ed0-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef13620-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 532, 
       "shapes": [
-                {
-          "ref": "che-cy",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "__descender-cy.che", 
-          "transform": [1, 0, 0, 1, 402, 0]
-}
-
+        {"ref": "che-cy","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__descender-cy.che", "transform": [1, 0, 0, 1, 402, 0]}
       ], 
       "isBackground": True
 }
@@ -42,27 +29,14 @@
 }
 
       ], 
-      "_background": "a802310a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef1386e-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a802310a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef1386e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 615, 
       "shapes": [
-                {
-          "ref": "che-cy",
-          "_":
-{
-  "com.glyphsapp": {
-    "alignment": -1
-  }
-}
-}
-, 
-                {
-          "ref": "__descender-cy.che", 
-          "transform": [1, 0, 0, 1, 361, 0]
-}
-
+        {"ref": "che-cy","_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__descender-cy.che", "transform": [1, 0, 0, 1, 361, 0]}
       ], 
       "isBackground": True
 }
@@ -76,21 +50,14 @@
 }
 
       ], 
-      "_background": "a802333a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef13a9e-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a802333a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef13a9e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 545, 
       "shapes": [
-                {
-          "ref": "che-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.che", 
-          "transform": [1, 0, 0, 1, 403, 0]
-}
-
+        {"ref": "che-cy"}, 
+        {"ref": "__descender-cy.che", "transform": [1, 0, 0, 1, 403, 0]}
       ], 
       "isBackground": True
 }
@@ -104,21 +71,14 @@
 }
 
       ], 
-      "_background": "a8023574-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef13cf6-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8023574-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef13cf6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 660, 
       "shapes": [
-                {
-          "ref": "che-cy"
-}
-, 
-                {
-          "ref": "__descender-cy.che", 
-          "transform": [1, 0, 0, 1, 366, 0]
-}
-
+        {"ref": "che-cy"}, 
+        {"ref": "__descender-cy.che", "transform": [1, 0, 0, 1, 366, 0]}
       ], 
       "isBackground": True
 }

@@ -3,31 +3,17 @@
       "width": 888, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 576, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 576, 0]}
       ], 
-      "_background": "a7f65b0a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee55c06-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f65b0a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee55c06-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 888, 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 576, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 576, 0]}
       ], 
       "isBackground": True
 }
@@ -36,31 +22,17 @@
       "width": 1037, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 754, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 754, 0]}
       ], 
-      "_background": "a7f65d3a-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee55e36-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f65d3a-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee55e36-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 1037, 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 754, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 754, 0]}
       ], 
       "isBackground": True
 }
@@ -69,31 +41,17 @@
       "width": 888, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 537, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 537, 0]}
       ], 
-      "_background": "a7f660e6-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee56048-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f660e6-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee56048-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 888, 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 537, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 537, 0]}
       ], 
       "isBackground": True
 }
@@ -102,31 +60,17 @@
       "width": 1037, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 715, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 715, 0]}
       ], 
-      "_background": "a7f66352-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ee56250-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7f66352-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ee56250-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 1037, 
       "shapes": [
-                {
-          "ref": "Cheabkhasian-cy"
-}
-, 
-                {
-          "ref": "ogonekcomb", 
-          "transform": [1, 0, 0, 1, 715, 0]
-}
-
+        {"ref": "Cheabkhasian-cy"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 715, 0]}
       ], 
       "isBackground": True
 }

@@ -8,21 +8,14 @@
 }
 
       ], 
-      "_background": "a8021472-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef11cb2-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8021472-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef11cb2-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 574, 
       "shapes": [
-                {
-          "ref": "el-cy"
-}
-, 
-                {
-          "ref": "__tail-cy", 
-          "transform": [1, 0, 0, 1, 424, 0]
-}
-
+        {"ref": "el-cy"}, 
+        {"ref": "__tail-cy", "transform": [1, 0, 0, 1, 424, 0]}
       ], 
       "isBackground": True
 }
@@ -36,21 +29,14 @@
 }
 
       ], 
-      "_background": "a8021792-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef11ece-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8021792-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef11ece-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 679, 
       "shapes": [
-                {
-          "ref": "el-cy"
-}
-, 
-                {
-          "ref": "__tail-cy", 
-          "transform": [1, 0, 0, 1, 391, 0]
-}
-
+        {"ref": "el-cy"}, 
+        {"ref": "__tail-cy", "transform": [1, 0, 0, 1, 391, 0]}
       ], 
       "isBackground": True
 }
@@ -64,21 +50,14 @@
 }
 
       ], 
-      "_background": "a80219a4-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef120cc-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a80219a4-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef120cc-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 574, 
       "shapes": [
-                {
-          "ref": "el-cy"
-}
-, 
-                {
-          "ref": "__tail-cy", 
-          "transform": [1, 0, 0, 1, 423, 0]
-}
-
+        {"ref": "el-cy"}, 
+        {"ref": "__tail-cy", "transform": [1, 0, 0, 1, 423, 0]}
       ], 
       "isBackground": True
 }
@@ -92,21 +71,14 @@
 }
 
       ], 
-      "_background": "a8021bca-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ef122f2-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a8021bca-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ef122f2-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 679, 
       "shapes": [
-                {
-          "ref": "el-cy"
-}
-, 
-                {
-          "ref": "__tail-cy", 
-          "transform": [1, 0, 0, 1, 391, 0]
-}
-
+        {"ref": "el-cy"}, 
+        {"ref": "__tail-cy", "transform": [1, 0, 0, 1, 391, 0]}
       ], 
       "isBackground": True
 }

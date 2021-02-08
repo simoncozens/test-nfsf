@@ -3,41 +3,19 @@
       "width": 600, 
       "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 310, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 304, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 310, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 304, 0]}
       ], 
-      "_background": "a7e1226c-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecfc54e-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e1226c-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecfc54e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 600, 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 310, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 304, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 310, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 304, 0]}
       ], 
       "isBackground": True
 }
@@ -46,41 +24,19 @@
       "width": 663, 
       "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 335, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 345, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 335, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 345, 0]}
       ], 
-      "_background": "a7e12532-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecfc80a-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e12532-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecfc80a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 663, 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 335, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 345, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 335, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 345, 0]}
       ], 
       "isBackground": True
 }
@@ -89,41 +45,19 @@
       "width": 600, 
       "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 286, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 361, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 286, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 361, 0]}
       ], 
-      "_background": "a7e12802-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecfcad0-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e12802-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecfcad0-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 600, 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 286, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 361, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 286, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 361, 0]}
       ], 
       "isBackground": True
 }
@@ -132,41 +66,19 @@
       "width": 663, 
       "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 316, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 396, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 316, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 396, 0]}
       ], 
-      "_background": "a7e12b04-6a2c-11eb-825b-3c7d0a0dfbfe"
+      "_background": "1ecfcdbe-6a2e-11eb-8d73-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "a7e12b04-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "id": "1ecfcdbe-6a2e-11eb-8d73-3c7d0a0dfbfe", 
       "width": 663, 
       "shapes": [
-                {
-          "ref": "S"
-}
-, 
-                {
-          "ref": "dotbelowcomb", 
-          "transform": [1, 0, 0, 1, 316, 0]
-}
-, 
-                {
-          "ref": "dotaccentcomb.case", 
-          "transform": [1, 0, 0, 1, 396, 0]
-}
-
+        {"ref": "S"}, 
+        {"ref": "dotbelowcomb", "transform": [1, 0, 0, 1, 316, 0]}, 
+        {"ref": "dotaccentcomb.case", "transform": [1, 0, 0, 1, 396, 0]}
       ], 
       "isBackground": True
 }
