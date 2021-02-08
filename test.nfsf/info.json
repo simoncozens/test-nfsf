@@ -1,0 +1,104 @@
+{
+  "version": [3, 600], 
+  "axes": [
+    {"name": "Weight", "tag": "wght", "id": "a7daaebe-6a2c-11eb-825b-3c7d0a0dfbfe", "min": 42, "max": 208, "default": 42}, 
+    {"name": "Italic", "tag": "ital", "id": "a7dab06c-6a2c-11eb-825b-3c7d0a0dfbfe", "max": 9}
+  ], 
+  "instances": [
+    {"name": "ExtraLight", "location": {"Weight": 42, "Italic": 0}}, 
+    {"name": "Light", "location": {"Weight": 61, "Italic": 0}}, 
+    {"name": "Regular", "location": {"Weight": 81, "Italic": 0}}, 
+    {"name": "SemiBold", "location": {"Weight": 101, "Italic": 0}}, 
+    {"name": "Bold", "location": {"Weight": 125, "Italic": 0}}, 
+    {"name": "ExtraBold", "location": {"Weight": 151, "Italic": 0}}, 
+    {"name": "Black", "location": {"Weight": 178, "Italic": 0}}, 
+    {"name": "Regular", "location": {"Weight": 208, "Italic": 0}}, 
+    {"name": "ExtraLight Italic", "location": {"Weight": 42, "Italic": 9}}, 
+    {"name": "Light Italic", "location": {"Weight": 61, "Italic": 9}}, 
+    {"name": "Italic", "location": {"Weight": 81, "Italic": 9}}, 
+    {"name": "SemiBold Italic", "location": {"Weight": 101, "Italic": 9}}, 
+    {"name": "Bold Italic", "location": {"Weight": 125, "Italic": 9}}, 
+    {"name": "ExtraBold Italic", "location": {"Weight": 151, "Italic": 9}}, 
+    {"name": "Black Italic", "location": {"Weight": 178, "Italic": 9}}, 
+    {"name": "Italic", "location": {"Weight": 208, "Italic": 9}}
+  ], 
+  "note": "Overshoot ExtraLight = 8
+Overshoot Heavy = 12
+
+
+Vertical stems = HOno
+Horizontal stems = LOno", 
+  "date": "2020-06-23 12:28:05",
+  "_":
+{
+  "com.glyphsapp": {
+    ".appVersion": "3039",
+    ".formatVersion": 3,
+    "DisplayStrings": [
+      "ABCDEFG"
+    ],
+    "customParameters": [
+      {
+        "name": "fsType",
+        "value": []
+      },
+      {
+        "name": "Use Typo Metrics",
+        "value": 1
+      },
+      {
+        "name": "EditView Line Height",
+        "value": 1200
+      },
+      {
+        "name": "TTFAutohint options",
+        "value": "--detailed-info"
+      },
+      {
+        "name": "Write lastChange",
+        "value": 0
+      },
+      {
+        "name": "Use Line Breaks",
+        "value": 1
+      }
+    ],
+    "settings": {
+      "disablesNiceNames": 1
+    },
+    "stems": [
+      {
+        "horizontal": 1,
+        "name": "hStem0"
+      },
+      {
+        "horizontal": 1,
+        "name": "hStem1"
+      },
+      {
+        "horizontal": 1,
+        "name": "hStem2"
+      },
+      {
+        "horizontal": 1,
+        "name": "hStem3"
+      },
+      {
+        "name": "vStem0"
+      },
+      {
+        "name": "vStem1"
+      },
+      {
+        "name": "vStem2"
+      },
+      {
+        "name": "vStem3"
+      }
+    ],
+    "userData": {
+      "UFOFormat": 2
+    }
+  }
+}
+}

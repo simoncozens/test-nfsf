@@ -1,0 +1,133 @@
+[    {
+      "id": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "width": 275, 
+      "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 116, 0]
+}
+
+      ], 
+      "_background": "a7edb536-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7edb536-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 275, 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 116, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "width": 364, 
+      "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 158, -2]
+}
+
+      ], 
+      "_background": "a7edb7de-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7edb7de-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 364, 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 158, -2]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "width": 275, 
+      "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 130, 0]
+}
+
+      ], 
+      "_background": "a7edba0e-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7edba0e-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 275, 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 134, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "width": 364, 
+      "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 176, -2]
+}
+
+      ], 
+      "_background": "a7edbc52-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7edbc52-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 364, 
+      "shapes": [
+                {
+          "ref": "l"
+}
+, 
+                {
+          "ref": "slashshortcomb", 
+          "transform": [1, 0, 0, 1, 175, -3]
+}
+
+      ], 
+      "isBackground": True
+}
+]

@@ -1,0 +1,213 @@
+[    {
+      "id": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "width": 427, 
+      "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 106, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 212, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 321, 0]
+}
+
+      ], 
+      "_background": "a7f247b8-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7f247b8-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 427, 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 106, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 212, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 321, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "width": 599, 
+      "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 148, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 296, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 449, 0]
+}
+
+      ], 
+      "_background": "a7f24b50-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7f24b50-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 599, 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 148, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 296, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 449, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "width": 427, 
+      "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 146, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 212, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 358, 0]
+}
+
+      ], 
+      "_background": "a7f24ed4-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7f24ed4-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 427, 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 146, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 212, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 358, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "width": 599, 
+      "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 185, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 296, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 486, 0]
+}
+
+      ], 
+      "_background": "a7f2538e-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a7f2538e-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 599, 
+      "shapes": [
+                {
+          "ref": "idotless"
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 185, 0]
+}
+, 
+                {
+          "ref": "jdotless", 
+          "transform": [1, 0, 0, 1, 296, 0]
+}
+, 
+                {
+          "ref": "acutecomb", 
+          "transform": [1, 0, 0, 1, 486, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+]

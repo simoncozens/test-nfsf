@@ -1,0 +1,173 @@
+[    {
+      "id": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "width": 917, 
+      "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 380, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 537, 0]
+}
+
+      ], 
+      "_background": "a8056a50-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a8056a50-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 917, 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 380, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 537, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "width": 1002, 
+      "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 400, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 622, 0]
+}
+
+      ], 
+      "_background": "a8056dfc-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a8056dfc-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 1002, 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 400, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 622, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "width": 917, 
+      "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 380, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 537, 0]
+}
+
+      ], 
+      "_background": "a80570c2-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a80570c2-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 917, 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 380, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 537, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "width": 1002, 
+      "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 400, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 622, 0]
+}
+
+      ], 
+      "_background": "a805739c-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a805739c-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "width": 1002, 
+      "shapes": [
+                {
+          "ref": "one.numr"
+}
+, 
+                {
+          "ref": "fraction", 
+          "transform": [1, 0, 0, 1, 400, 0]
+}
+, 
+                {
+          "ref": "two.dnom", 
+          "transform": [1, 0, 0, 1, 622, 0]
+}
+
+      ], 
+      "isBackground": True
+}
+]

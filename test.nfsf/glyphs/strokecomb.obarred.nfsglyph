@@ -1,0 +1,85 @@
+[    {
+      "id": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "shapes": [
+                {
+          "nodes": [[195,229,"l"], [195,265,"l"], [-195,265,"l"], [-195,229,"l"]]
+}
+
+      ], 
+      "_background": "a815c88c-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a815c88c-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[195,229,"l"], [195,265,"l"], [-195,265,"l"], [-195,229,"l"]]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "shapes": [
+                {
+          "nodes": [[140,184,"l"], [140,310,"l"], [-140,310,"l"], [-140,184,"l"]]
+}
+
+      ], 
+      "_background": "a815c954-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a815c954-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[140,184,"l"], [140,310,"l"], [-140,310,"l"], [-140,184,"l"]]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "shapes": [
+                {
+          "nodes": [[193,229,"l"], [199,265,"l"], [-191,265,"l"], [-197,229,"l"]]
+}
+
+      ], 
+      "_background": "a815ca44-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a815ca44-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[192,229,"l"], [198,265,"l"], [-192,265,"l"], [-198,229,"l"]]
+}
+
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "shapes": [
+                {
+          "nodes": [[130,184,"l"], [150,310,"l"], [-130,310,"l"], [-150,184,"l"]]
+}
+
+      ], 
+      "_background": "a815cb02-6a2c-11eb-825b-3c7d0a0dfbfe"
+}
+,     {
+      "id": "a815cb02-6a2c-11eb-825b-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[130,184,"l"], [150,310,"l"], [-130,310,"l"], [-150,184,"l"]]
+}
+
+      ], 
+      "isBackground": True
+}
+]

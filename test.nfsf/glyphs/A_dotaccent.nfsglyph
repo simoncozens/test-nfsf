@@ -1,0 +1,65 @@
+[    {
+      "id": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "width": 716, 
+      "_master": "F1F93986-3ED8-4AAE-84C4-CA3EEECDDFA0", 
+      "shapes": [
+                {
+          "ref": "A"
+}
+, 
+                {
+          "ref": "dotaccentcomb.case", 
+          "transform": [1, 0, 0, 1, 359, 0]
+}
+
+      ]
+}
+,     {
+      "id": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "width": 773, 
+      "_master": "4121B50C-FD42-45C5-8FBE-41E76D98F91E", 
+      "shapes": [
+                {
+          "ref": "A"
+}
+, 
+                {
+          "ref": "dotaccentcomb.case", 
+          "transform": [1, 0, 0, 1, 386, 0]
+}
+
+      ]
+}
+,     {
+      "id": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "width": 716, 
+      "_master": "D8D4984A-F5A5-43C0-BF2B-5708C10C5E92", 
+      "shapes": [
+                {
+          "ref": "A"
+}
+, 
+                {
+          "ref": "dotaccentcomb.case", 
+          "transform": [1, 0, 0, 1, 434, 0]
+}
+
+      ]
+}
+,     {
+      "id": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "width": 773, 
+      "_master": "C92D7C27-2246-4784-91DF-7F4E0C5E615D", 
+      "shapes": [
+                {
+          "ref": "A"
+}
+, 
+                {
+          "ref": "dotaccentcomb.case", 
+          "transform": [1, 0, 0, 1, 456, 0]
+}
+
+      ]
+}
+]
