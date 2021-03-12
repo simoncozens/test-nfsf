@@ -6,10 +6,10 @@
         {"ref": "Ha-cy"}, 
         {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 316, 15]}
       ], 
-      "_background": "1ee682a2-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "3318d080-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee682a2-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3318d080-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 631, 
       "shapes": [
         {"ref": "Ha-cy"}, 
@@ -25,10 +25,10 @@
         {"ref": "Ha-cy"}, 
         {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 350, 44]}
       ], 
-      "_background": "1ee684b4-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "3318d2ce-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee684b4-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3318d2ce-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 713, 
       "shapes": [
         {"ref": "Ha-cy"}, 
@@ -44,10 +44,10 @@
         {"ref": "Ha-cy"}, 
         {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 334, 15]}
       ], 
-      "_background": "1ee686c6-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "3318d51c-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee686c6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3318d51c-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 631, 
       "shapes": [
         {"ref": "Ha-cy"}, 
@@ -63,14 +63,52 @@
         {"ref": "Ha-cy"}, 
         {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 379, 44]}
       ], 
-      "_background": "1ee688d8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "3318d74c-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee688d8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3318d74c-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 713, 
       "shapes": [
         {"ref": "Ha-cy"}, 
         {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 379, 44]}
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 672, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+        {"ref": "Ha-cy"}, 
+        {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 333, 29]}
+      ], 
+      "_background": "3318d97c-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3318d97c-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 672, 
+      "shapes": [
+        {"ref": "Ha-cy"}, 
+        {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 336, 29]}
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 672, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+        {"ref": "Ha-cy"}, 
+        {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 357, 29]}
+      ], 
+      "_background": "3318dbc0-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3318dbc0-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 672, 
+      "shapes": [
+        {"ref": "Ha-cy"}, 
+        {"ref": "strokeshortcomb.cy", "transform": [1, 0, 0, 1, 357, 29]}
       ], 
       "isBackground": True
 }

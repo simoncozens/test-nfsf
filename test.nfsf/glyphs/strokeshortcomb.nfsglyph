@@ -7,16 +7,26 @@
 }
 
       ], 
-      "_background": "1ef9bc3c-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 540, 
+          "name": "_stroke"
+}
+], 
+      "_background": "333941ee-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9bc3c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333941ee-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[167,522,"l"], [167,558,"l"], [-167,558,"l"], [-167,522,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 540, 
+          "name": "_stroke"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -28,16 +38,26 @@
 }
 
       ], 
-      "_background": "1ef9bd22-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 610, 
+          "name": "_stroke"
+}
+], 
+      "_background": "3339431a-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9bd22-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3339431a-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[234,540,"l"], [234,680,"l"], [-234,680,"l"], [-234,540,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 610, 
+          "name": "_stroke"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -49,16 +69,26 @@
 }
 
       ], 
-      "_background": "1ef9be1c-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 540, 
+          "name": "_stroke"
+}
+], 
+      "_background": "3339445a-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9be1c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3339445a-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[164,522,"l"], [170,558,"l"], [-164,558,"l"], [-170,522,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 540, 
+          "name": "_stroke"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -70,16 +100,88 @@
 }
 
       ], 
-      "_background": "1ef9bf02-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 610, 
+          "name": "_stroke"
+}
+], 
+      "_background": "33394568-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9bf02-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33394568-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[223,540,"l"], [245,680,"l"], [-223,680,"l"], [-245,540,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 610, 
+          "name": "_stroke"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[162,531,"ls"], [192,531,"o"], [209,547,"o"], [209,575,"cs"], [209,603,"o"], [192,619,"o"], [162,619,"cs"], [-161,619,"ls"], [-192,619,"o"], [-208,603,"o"], [-208,575,"cs"], [-208,547,"o"], [-192,531,"o"], [-161,531,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 575, 
+          "name": "_stroke"
+}
+], 
+      "_background": "3339468a-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3339468a-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[201,531,"l"], [201,619,"l"], [-200,619,"l"], [-200,531,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 575, 
+          "name": "_stroke"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[155,531,"ls"], [188,531,"o"], [209,550,"o"], [209,583,"cs"], [209,607,"o"], [191,619,"o"], [161,619,"cs"], [-156,619,"ls"], [-189,619,"o"], [-209,600,"o"], [-209,567,"cs"], [-209,544,"o"], [-192,531,"o"], [-161,531,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 575, 
+          "name": "_stroke"
+}
+], 
+      "_background": "333947ac-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333947ac-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[194,531,"l"], [208,619,"l"], [-193,619,"l"], [-207,531,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 575, 
+          "name": "_stroke"
+}
+], 
       "isBackground": True
 }
 ]

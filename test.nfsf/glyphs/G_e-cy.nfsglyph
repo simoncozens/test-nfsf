@@ -8,10 +8,25 @@
 }
 
       ], 
-      "_background": "1ee2eade-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 96, 
+          "name": "bottomright"
+}
+,         {
+          "x": 148, 
+          "y": 353, 
+          "name": "stroke"
+}
+,         {
+          "x": 275, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "3312feb2-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2eade-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3312feb2-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 527, 
       "shapes": [
                 {
@@ -19,6 +34,21 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 96, 
+          "name": "bottomright"
+}
+,         {
+          "x": 148, 
+          "y": 353, 
+          "name": "stroke"
+}
+,         {
+          "x": 275, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -31,10 +61,25 @@
 }
 
       ], 
-      "_background": "1ee2ec1e-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 71, 
+          "name": "bottomright"
+}
+,         {
+          "x": 176, 
+          "y": 359, 
+          "name": "stroke"
+}
+,         {
+          "x": 285, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "331300a6-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2ec1e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "331300a6-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 591, 
       "shapes": [
                 {
@@ -42,6 +87,21 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 71, 
+          "name": "bottomright"
+}
+,         {
+          "x": 176, 
+          "y": 359, 
+          "name": "stroke"
+}
+,         {
+          "x": 285, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -54,10 +114,25 @@
 }
 
       ], 
-      "_background": "1ee2ed68-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 57, 
+          "name": "bottomright"
+}
+,         {
+          "x": 165, 
+          "y": 353, 
+          "name": "stroke"
+}
+,         {
+          "x": 348, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "331302a4-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2ed68-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "331302a4-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 527, 
       "shapes": [
                 {
@@ -65,6 +140,21 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 58, 
+          "name": "bottomright"
+}
+,         {
+          "x": 165, 
+          "y": 353, 
+          "name": "stroke"
+}
+,         {
+          "x": 348, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -77,10 +167,25 @@
 }
 
       ], 
-      "_background": "1ee2ee8a-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 33, 
+          "name": "bottomright"
+}
+,         {
+          "x": 195, 
+          "y": 359, 
+          "name": "stroke"
+}
+,         {
+          "x": 358, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "33130574-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2ee8a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33130574-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 591, 
       "shapes": [
                 {
@@ -88,6 +193,127 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 33, 
+          "name": "bottomright"
+}
+,         {
+          "x": 195, 
+          "y": 359, 
+          "name": "stroke"
+}
+,         {
+          "x": 358, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 559, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[183,-8,"o"], [205,16,"o"], [205,58,"cs"], [205,598,"l"], [496,598,"ls"], [532,598,"o"], [551,618,"o"], [551,652,"cs"], [551,686,"o"], [532,705,"o"], [496,705,"cs"], [143,705,"ls"], [100,705,"o"], [77,682,"o"], [77,639,"cs"], [77,58,"ls"], [77,16,"o"], [100,-8,"o"], [141,-8,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 84, 
+          "name": "bottomright"
+}
+,         {
+          "x": 162, 
+          "y": 356, 
+          "name": "stroke"
+}
+,         {
+          "x": 280, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "3313070e-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3313070e-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 559, 
+      "shapes": [
+                {
+          "nodes": [[205,0,"l"], [205,598,"l"], [543,598,"l"], [543,705,"l"], [77,705,"l"], [77,0,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 83, 
+          "name": "bottomright"
+}
+,         {
+          "x": 162, 
+          "y": 356, 
+          "name": "stroke"
+}
+,         {
+          "x": 280, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 559, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[145,-8,"o"], [168,14,"o"], [175,57,"cs"], [261,598,"l"], [554,598,"ls"], [594,598,"o"], [618,622,"o"], [618,662,"cs"], [618,690,"o"], [597,705,"o"], [561,705,"cs"], [212,705,"ls"], [171,705,"o"], [147,684,"o"], [140,643,"cs"], [49,68,"ls"], [41,20,"o"], [59,-8,"o"], [103,-8,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 45, 
+          "name": "bottomright"
+}
+,         {
+          "x": 180, 
+          "y": 356, 
+          "name": "stroke"
+}
+,         {
+          "x": 353, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "33130894-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "33130894-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 559, 
+      "shapes": [
+                {
+          "nodes": [[166,0,"l"], [261,598,"l"], [599,598,"l"], [616,705,"l"], [150,705,"l"], [38,0,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 46, 
+          "name": "bottomright"
+}
+,         {
+          "x": 180, 
+          "y": 356, 
+          "name": "stroke"
+}
+,         {
+          "x": 353, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ]

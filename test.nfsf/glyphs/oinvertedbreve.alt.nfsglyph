@@ -1,0 +1,163 @@
+[    {
+      "id": "46714D5E-1976-4AB0-9015-EE96FC3CB5C7", 
+      "width": 398, 
+      "_master": "46714D5E-1976-4AB0-9015-EE96FC3CB5C7", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 358, 0]}
+      ]
+}
+,     {
+      "id": "5CD8FF26-29F3-4CF5-962E-351C1FC77CB4", 
+      "width": 398, 
+      "_master": "5CD8FF26-29F3-4CF5-962E-351C1FC77CB4", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 360, 0]}
+      ]
+}
+,     {
+      "id": "442E71B2-A460-41D3-A47D-0980BED54865", 
+      "width": 428, 
+      "_master": "442E71B2-A460-41D3-A47D-0980BED54865", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 370, -40]}
+      ]
+}
+,     {
+      "id": "2C2DD94C-68DE-414D-9BC0-FF3596995E28", 
+      "width": 428, 
+      "_master": "2C2DD94C-68DE-414D-9BC0-FF3596995E28", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 368, -40]}
+      ]
+}
+,     {
+      "id": "78E15A5C-2EE9-48A0-A817-936B1B1D4410", 
+      "width": 308, 
+      "_master": "78E15A5C-2EE9-48A0-A817-936B1B1D4410", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 312, 0]}
+      ]
+}
+,     {
+      "id": "A1AD5B8C-E05F-4320-890B-CA186403822F", 
+      "width": 308, 
+      "_master": "A1AD5B8C-E05F-4320-890B-CA186403822F", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 312, 0]}
+      ]
+}
+,     {
+      "id": "88A8299D-E022-4DA3-A2E4-227FE3B40034", 
+      "width": 333, 
+      "_master": "88A8299D-E022-4DA3-A2E4-227FE3B40034", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 325, -40]}
+      ]
+}
+,     {
+      "id": "09723C84-322C-47EA-BE24-2224FDA42E77", 
+      "width": 332, 
+      "_master": "09723C84-322C-47EA-BE24-2224FDA42E77", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 325, -40]}
+      ]
+}
+,     {
+      "id": "121E81C8-370B-4E74-B536-9333FC9F56EB", 
+      "width": 516, 
+      "_master": "121E81C8-370B-4E74-B536-9333FC9F56EB", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 412, 0]}
+      ]
+}
+,     {
+      "id": "D606502D-B64B-45D5-82AA-980CC30A98C5", 
+      "width": 516, 
+      "_master": "D606502D-B64B-45D5-82AA-980CC30A98C5", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 411, 0]}
+      ]
+}
+,     {
+      "id": "4F9AE7AF-B85C-4760-B6B1-FBC87CE137CD", 
+      "width": 546, 
+      "_master": "4F9AE7AF-B85C-4760-B6B1-FBC87CE137CD", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 427, -40]}
+      ]
+}
+,     {
+      "id": "BD161C12-3CFB-471A-8895-7912B77EBC5F", 
+      "width": 546, 
+      "_master": "BD161C12-3CFB-471A-8895-7912B77EBC5F", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 426, -40]}
+      ]
+}
+,     {
+      "id": "43632024-9C5E-474A-AED3-5DBDFF17DFD4", 
+      "width": 308, 
+      "_master": "43632024-9C5E-474A-AED3-5DBDFF17DFD4", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 306, 0]}
+      ]
+}
+,     {
+      "id": "EA41DCC1-E30C-4E16-8137-F68D468870A5", 
+      "width": 333, 
+      "_master": "EA41DCC1-E30C-4E16-8137-F68D468870A5", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 319, -40]}
+      ]
+}
+,     {
+      "id": "DBBB4A94-C63F-4E8A-BD49-CF5BABA62F48", 
+      "width": 398, 
+      "_master": "DBBB4A94-C63F-4E8A-BD49-CF5BABA62F48", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 352, 0]}
+      ]
+}
+,     {
+      "id": "347FB8FC-0FE3-492B-BC30-47384598CEDC", 
+      "width": 428, 
+      "_master": "347FB8FC-0FE3-492B-BC30-47384598CEDC", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 365, -40]}
+      ]
+}
+,     {
+      "id": "25EA72B7-D3B8-4838-BB35-E376827E9204", 
+      "width": 506, 
+      "_master": "25EA72B7-D3B8-4838-BB35-E376827E9204", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 397, 3]}
+      ]
+}
+,     {
+      "id": "88AB2F86-33EB-4A4E-B224-E3E389022AEB", 
+      "width": 536, 
+      "_master": "88AB2F86-33EB-4A4E-B224-E3E389022AEB", 
+      "shapes": [
+        {"ref": "o.alt"}, 
+        {"ref": "breveinvertedcomb", "transform": [1, 0, 0, 1, 412, -37]}
+      ]
+}
+]

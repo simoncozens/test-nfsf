@@ -7,16 +7,26 @@
 }
 
       ], 
-      "_background": "1efaf5a2-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 546, 
+          "name": "_center"
+}
+], 
+      "_background": "333b6ad2-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efaf5a2-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b6ad2-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[375,527,"l"], [375,565,"l"], [-376,565,"l"], [-376,527,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 546, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -28,16 +38,26 @@
 }
 
       ], 
-      "_background": "1efaf688-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 575, 
+          "name": "_center"
+}
+], 
+      "_background": "333b6bfe-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efaf688-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b6bfe-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[414,500,"l"], [414,650,"l"], [-414,650,"l"], [-414,500,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 575, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -49,16 +69,26 @@
 }
 
       ], 
-      "_background": "1efaf76e-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 546, 
+          "name": "_center"
+}
+], 
+      "_background": "333b6d20-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efaf76e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b6d20-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[372,527,"l"], [378,565,"l"], [-373,565,"l"], [-379,527,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 546, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -70,16 +100,88 @@
 }
 
       ], 
-      "_background": "1efaf872-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 575, 
+          "name": "_center"
+}
+], 
+      "_background": "333b6e7e-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efaf872-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b6e7e-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[402,500,"l"], [426,650,"l"], [-402,650,"l"], [-426,500,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 575, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[355,514,"ls"], [386,514,"o"], [403,531,"o"], [403,561,"cs"], [403,591,"o"], [386,608,"o"], [355,608,"cs"], [-355,608,"ls"], [-386,608,"o"], [-403,591,"o"], [-403,561,"cs"], [-403,531,"o"], [-386,514,"o"], [-355,514,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 561, 
+          "name": "_center"
+}
+], 
+      "_background": "333b6fbe-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333b6fbe-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[395,514,"l"], [395,608,"l"], [-395,608,"l"], [-395,514,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 561, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[346,514,"ls"], [381,514,"o"], [403,535,"o"], [403,570,"cs"], [403,594,"o"], [385,608,"o"], [353,608,"cs"], [-346,608,"ls"], [-381,608,"o"], [-403,587,"o"], [-403,552,"cs"], [-403,528,"o"], [-385,514,"o"], [-353,514,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 561, 
+          "name": "_center"
+}
+], 
+      "_background": "333b70d6-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333b70d6-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[387,514,"l"], [402,608,"l"], [-388,608,"l"], [-403,514,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 561, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ]

@@ -7,16 +7,26 @@
 }
 
       ], 
-      "_background": "1efb23d8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
+      "_background": "333ba768-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efb23d8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333ba768-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[122,226,"l"], [122,262,"l"], [-123,262,"l"], [-123,226,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -28,16 +38,26 @@
 }
 
       ], 
-      "_background": "1efb24c8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 257, 
+          "name": "_center"
+}
+], 
+      "_background": "333ba894-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efb24c8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333ba894-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[184,199,"l"], [184,315,"l"], [-185,315,"l"], [-185,199,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 257, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -49,16 +69,26 @@
 }
 
       ], 
-      "_background": "1f04d8d8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
+      "_background": "333ba9ca-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f04d8d8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333ba9ca-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[119,226,"l"], [125,262,"l"], [-120,262,"l"], [-126,226,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -70,16 +100,88 @@
 }
 
       ], 
-      "_background": "1f04dad6-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 257, 
+          "name": "_center"
+}
+], 
+      "_background": "333baaf6-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f04dad6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333baaf6-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[175,199,"l"], [194,315,"l"], [-175,315,"l"], [-194,199,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 257, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[121,213,"ls"], [147,213,"o"], [162,227,"o"], [162,251,"cs"], [162,275,"o"], [147,289,"o"], [121,289,"cs"], [-121,289,"ls"], [-147,289,"o"], [-162,275,"o"], [-162,251,"cs"], [-162,227,"o"], [-147,213,"o"], [-121,213,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 251, 
+          "name": "_center"
+}
+], 
+      "_background": "333bac04-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333bac04-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[153,213,"l"], [153,289,"l"], [-154,289,"l"], [-154,213,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 251, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[115,213,"ls"], [142,213,"o"], [162,228,"o"], [162,256,"cs"], [162,278,"o"], [147,289,"o"], [120,289,"cs"], [-115,289,"ls"], [-145,289,"o"], [-162,271,"o"], [-162,245,"cs"], [-162,225,"o"], [-148,213,"o"], [-120,213,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 251, 
+          "name": "_center"
+}
+], 
+      "_background": "333bad4e-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333bad4e-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[147,213,"l"], [160,289,"l"], [-147,289,"l"], [-160,213,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 251, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ]

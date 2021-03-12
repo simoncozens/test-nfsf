@@ -5,14 +5,24 @@
       "shapes": [
         {"ref": "M"}
       ], 
-      "_background": "1ee37238-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 707, 
+          "name": "bottomright"
+}
+], 
+      "_background": "3313ed7c-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee37238-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3313ed7c-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 844, 
       "shapes": [
         {"ref": "M"}
       ], 
+      "anchors": [        {
+          "x": 707, 
+          "name": "bottomright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -22,14 +32,24 @@
       "shapes": [
         {"ref": "M"}
       ], 
-      "_background": "1ee373b4-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 640, 
+          "name": "bottomright"
+}
+], 
+      "_background": "3313ef0c-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee373b4-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3313ef0c-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 893, 
       "shapes": [
         {"ref": "M"}
       ], 
+      "anchors": [        {
+          "x": 640, 
+          "name": "bottomright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -39,14 +59,24 @@
       "shapes": [
         {"ref": "M"}
       ], 
-      "_background": "1ee37526-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 669, 
+          "name": "bottomright"
+}
+], 
+      "_background": "3313f0b0-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee37526-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3313f0b0-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 844, 
       "shapes": [
         {"ref": "M"}
       ], 
+      "anchors": [        {
+          "x": 669, 
+          "name": "bottomright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -56,14 +86,78 @@
       "shapes": [
         {"ref": "M"}
       ], 
-      "_background": "1ee3767a-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 601, 
+          "name": "bottomright"
+}
+], 
+      "_background": "3313f236-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee3767a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3313f236-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 893, 
       "shapes": [
         {"ref": "M"}
       ], 
+      "anchors": [        {
+          "x": 601, 
+          "name": "bottomright"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 868, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+        {"ref": "M"}
+      ], 
+      "anchors": [        {
+          "x": 674, 
+          "name": "bottomright"
+}
+], 
+      "_background": "3313f3e4-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3313f3e4-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 868, 
+      "shapes": [
+        {"ref": "M"}
+      ], 
+      "anchors": [        {
+          "x": 674, 
+          "name": "bottomright"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 869, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+        {"ref": "M"}
+      ], 
+      "anchors": [        {
+          "x": 635, 
+          "name": "bottomright"
+}
+], 
+      "_background": "3313f592-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3313f592-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 869, 
+      "shapes": [
+        {"ref": "M"}
+      ], 
+      "anchors": [        {
+          "x": 635, 
+          "name": "bottomright"
+}
+], 
       "isBackground": True
 }
 ]

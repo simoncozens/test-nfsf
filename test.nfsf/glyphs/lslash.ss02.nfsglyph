@@ -6,10 +6,10 @@
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 20, 0]}, 
         {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 126, 0]}
       ], 
-      "_background": "1ee29016-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "33126a4c-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee29016-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33126a4c-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 252, 
       "shapes": [
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 20, 0]}, 
@@ -25,10 +25,10 @@
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 50, 0]}, 
         {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 198, -2]}
       ], 
-      "_background": "1ee29228-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "33126c9a-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee29228-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33126c9a-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 396, 
       "shapes": [
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 50, 0]}, 
@@ -44,10 +44,10 @@
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 20, 0]}, 
         {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 144, 0]}
       ], 
-      "_background": "1ee29444-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "33126ede-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee29444-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33126ede-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 252, 
       "shapes": [
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 20, 0]}, 
@@ -63,14 +63,52 @@
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 50, 0]}, 
         {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 215, -2]}
       ], 
-      "_background": "1ee29656-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "33127122-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee29656-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33127122-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 396, 
       "shapes": [
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 50, 0]}, 
         {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 215, -3]}
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 324, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 35, 0]}, 
+        {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 162, -1]}
+      ], 
+      "_background": "33127366-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "33127366-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 324, 
+      "shapes": [
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 35, 0]}, 
+        {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 162, -1]}
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 324, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 35, 0]}, 
+        {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 181, -1]}
+      ], 
+      "_background": "3312758c-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3312758c-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 324, 
+      "shapes": [
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 35, 0]}, 
+        {"ref": "slashshortcomb", "transform": [1, 0, 0, 1, 180, -1]}
       ], 
       "isBackground": True
 }

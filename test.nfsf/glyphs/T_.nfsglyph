@@ -8,10 +8,25 @@
 }
 
       ], 
-      "_background": "1ed68f3c-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 293, 
+          "name": "bottom"
+}
+,         {
+          "x": 293, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 293, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32f3369a-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ed68f3c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32f3369a-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 586, 
       "shapes": [
                 {
@@ -19,6 +34,21 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 293, 
+          "name": "bottom"
+}
+,         {
+          "x": 293, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 293, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -31,10 +61,25 @@
 }
 
       ], 
-      "_background": "1ed690ae-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 329, 
+          "name": "bottom"
+}
+,         {
+          "x": 328, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 328, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32f33848-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ed690ae-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32f33848-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 657, 
       "shapes": [
                 {
@@ -42,6 +87,21 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 329, 
+          "name": "bottom"
+}
+,         {
+          "x": 328, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 328, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -54,10 +114,25 @@
 }
 
       ], 
-      "_background": "1ed691f8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 254, 
+          "name": "bottom"
+}
+,         {
+          "x": 311, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 366, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32f339ec-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ed691f8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32f339ec-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 586, 
       "shapes": [
                 {
@@ -65,6 +140,21 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 254, 
+          "name": "bottom"
+}
+,         {
+          "x": 311, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 366, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -77,10 +167,25 @@
 }
 
       ], 
-      "_background": "1ed69338-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 291, 
+          "name": "bottom"
+}
+,         {
+          "x": 346, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 398, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32f33b72-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ed69338-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32f33b72-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 657, 
       "shapes": [
                 {
@@ -88,6 +193,127 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 291, 
+          "name": "bottom"
+}
+,         {
+          "x": 346, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 398, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 621, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[353,-8,"o"], [375,16,"o"], [375,58,"cs"], [375,598,"l"], [570,598,"ls"], [605,598,"o"], [625,618,"o"], [625,652,"cs"], [625,686,"o"], [605,705,"o"], [570,705,"cs"], [52,705,"ls"], [17,705,"o"], [-3,686,"o"], [-3,652,"cs"], [-3,618,"o"], [17,598,"o"], [52,598,"cs"], [247,598,"l"], [247,58,"ls"], [247,16,"o"], [270,-8,"o"], [311,-8,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 311, 
+          "name": "bottom"
+}
+,         {
+          "x": 311, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 311, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32f33d02-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "32f33d02-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 621, 
+      "shapes": [
+                {
+          "nodes": [[375,0,"l"], [375,598,"l"], [617,598,"l"], [617,705,"l"], [5,705,"l"], [5,598,"l"], [247,598,"l"], [247,0,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 311, 
+          "name": "bottom"
+}
+,         {
+          "x": 311, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 311, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 621, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[315,-8,"o"], [338,14,"o"], [345,56,"cs"], [431,598,"l"], [626,598,"ls"], [666,598,"o"], [690,622,"o"], [690,662,"cs"], [690,690,"o"], [669,705,"o"], [633,705,"cs"], [125,705,"ls"], [86,705,"o"], [61,682,"o"], [61,642,"cs"], [61,615,"o"], [82,598,"o"], [118,598,"cs"], [303,598,"l"], [219,67,"ls"], [212,20,"o"], [232,-8,"o"], [273,-8,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 273, 
+          "name": "bottom"
+}
+,         {
+          "x": 329, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 382, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32f33ea6-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "32f33ea6-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 621, 
+      "shapes": [
+                {
+          "nodes": [[336,0,"l"], [431,598,"l"], [673,598,"l"], [690,705,"l"], [78,705,"l"], [61,598,"l"], [303,598,"l"], [208,0,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 273, 
+          "name": "bottom"
+}
+,         {
+          "x": 329, 
+          "y": 358, 
+          "name": "center"
+}
+,         {
+          "x": 382, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ]

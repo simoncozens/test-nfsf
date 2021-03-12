@@ -5,14 +5,26 @@
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
-      "_background": "1edb0738-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 224, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "_background": "32fa83fa-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1edb0738-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32fa83fa-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 476, 
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
+      "anchors": [        {
+          "x": 224, 
+          "y": 484, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -22,14 +34,26 @@
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
-      "_background": "1edb0896-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 263, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "_background": "32fa86de-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1edb0896-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32fa86de-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 557, 
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
+      "anchors": [        {
+          "x": 263, 
+          "y": 484, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -39,14 +63,26 @@
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
-      "_background": "1edb0b20-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 261, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "_background": "32fa886e-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1edb0b20-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32fa886e-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 476, 
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
+      "anchors": [        {
+          "x": 261, 
+          "y": 484, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -56,14 +92,84 @@
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
-      "_background": "1edb0c7e-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 290, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "_background": "32fa8a26-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1edb0c7e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32fa8a26-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 557, 
       "shapes": [
         {"ref": "dzeabkhasian-cy"}
       ], 
+      "anchors": [        {
+          "x": 290, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 516, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+        {"ref": "dzeabkhasian-cy"}
+      ], 
+      "anchors": [        {
+          "x": 244, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "_background": "32fa8bac-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "32fa8bac-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 516, 
+      "shapes": [
+        {"ref": "dzeabkhasian-cy"}
+      ], 
+      "anchors": [        {
+          "x": 244, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 516, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+        {"ref": "dzeabkhasian-cy"}
+      ], 
+      "anchors": [        {
+          "x": 288, 
+          "y": 484, 
+          "name": "top"
+}
+], 
+      "_background": "32fa8d46-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "32fa8d46-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 516, 
+      "shapes": [
+        {"ref": "dzeabkhasian-cy"}
+      ], 
+      "anchors": [        {
+          "x": 288, 
+          "y": 484, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ]

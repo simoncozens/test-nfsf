@@ -7,16 +7,27 @@
 }
 
       ], 
-      "_background": "1ef50b1a-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 353, 
+          "name": "_dot"
+}
+], 
+      "_background": "333190e8-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef50b1a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333190e8-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[24,319,"l"], [24,387,"l"], [-44,387,"l"], [-44,319,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "x": -10, 
+          "y": 353, 
+          "name": "_dot"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -29,10 +40,16 @@
 }
 
       ], 
-      "_background": "1ef50c14-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 107, 
+          "y": 350, 
+          "name": "_dot"
+}
+], 
+      "_background": "3331921e-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef50c14-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3331921e-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 211, 
       "shapes": [
                 {
@@ -40,6 +57,12 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 107, 
+          "y": 350, 
+          "name": "_dot"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -51,16 +74,28 @@
 }
 
       ], 
-      "_background": "1ef50d22-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 17, 
+          "y": 353, 
+          "name": "_dot"
+}
+], 
+      "_background": "33319340-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef50d22-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33319340-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[46,319,"l"], [57,387,"l"], [-11,387,"l"], [-22,319,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "x": 18, 
+          "y": 353, 
+          "name": "_dot"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -73,10 +108,16 @@
 }
 
       ], 
-      "_background": "1ef50e12-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 121, 
+          "y": 350, 
+          "name": "_dot"
+}
+], 
+      "_background": "33319480-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef50e12-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33319480-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 211, 
       "shapes": [
                 {
@@ -84,6 +125,82 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 123, 
+          "y": 350, 
+          "name": "_dot"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 105, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[99,278,"o"], [127,309,"o"], [127,352,"cs"], [127,396,"o"], [99,426,"o"], [53,426,"cs"], [7,426,"o"], [-22,396,"o"], [-22,352,"cs"], [-22,309,"o"], [7,278,"o"], [53,278,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 53, 
+          "y": 352, 
+          "name": "_dot"
+}
+], 
+      "_background": "333195e8-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333195e8-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 105, 
+      "shapes": [
+                {
+          "nodes": [[117,290,"l"], [117,413,"l"], [-23,413,"l"], [-23,290,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 48, 
+          "y": 352, 
+          "name": "_dot"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 105, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[116,278,"o"], [144,309,"o"], [144,352,"cs"], [144,396,"o"], [116,426,"o"], [70,426,"cs"], [24,426,"o"], [-5,396,"o"], [-5,352,"cs"], [-5,309,"o"], [24,278,"o"], [70,278,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 69, 
+          "y": 352, 
+          "name": "_dot"
+}
+], 
+      "_background": "33319804-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "33319804-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 105, 
+      "shapes": [
+                {
+          "nodes": [[130,290,"l"], [150,413,"l"], [10,413,"l"], [-10,290,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 71, 
+          "y": 352, 
+          "name": "_dot"
+}
+], 
       "isBackground": True
 }
 ]

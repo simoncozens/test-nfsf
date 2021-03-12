@@ -7,16 +7,26 @@
 }
 
       ], 
-      "_background": "1efa724e-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "_background": "333a7154-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa724e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a7154-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[30,489,"l"], [49,705,"l"], [0,705,"l"], [0,489,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -28,16 +38,26 @@
 }
 
       ], 
-      "_background": "1efa733e-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "_background": "333a728a-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa733e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a728a-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[118,448,"l"], [145,705,"l"], [0,705,"l"], [0,448,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -49,16 +69,26 @@
 }
 
       ], 
-      "_background": "1efa7424-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "_background": "333a73c0-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa7424-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a73c0-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[-4,489,"l"], [49,705,"l"], [0,705,"l"], [-34,489,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -70,16 +100,88 @@
 }
 
       ], 
-      "_background": "1efa7528-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "_background": "333a7500-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa7528-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a7500-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[77,448,"l"], [145,705,"l"], [0,705,"l"], [-41,448,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[61,462,"o"], [75,475,"o"], [77,499,"cs"], [93,662,"ls"], [96,696,"o"], [80,713,"o"], [49,713,"cs"], [18,713,"o"], [0,696,"o"], [0,664,"cs"], [0,501,"ls"], [0,476,"o"], [14,462,"o"], [37,462,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "_background": "333a7636-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333a7636-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[74,469,"l"], [97,705,"l"], [0,705,"l"], [0,469,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[22,462,"o"], [38,473,"o"], [44,497,"cs"], [85,659,"ls"], [94,694,"o"], [78,713,"o"], [46,713,"cs"], [17,713,"o"], [0,702,"o"], [-5,671,"cs"], [-31,505,"ls"], [-35,479,"o"], [-25,462,"o"], [-2,462,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
+      "_background": "333a774e-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333a774e-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[37,469,"l"], [97,705,"l"], [0,705,"l"], [-37,469,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 705, 
+          "name": "_topright"
+}
+], 
       "isBackground": True
 }
 ]

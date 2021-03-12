@@ -4,13 +4,24 @@
       "shapes": [
         {"ref": "caroncomb.alt","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "1efa36a8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 250, 
+          "y": 153, 
+          "name": "_caron.alt"
+}
+], 
+      "_background": "333a0264-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa36a8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a0264-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
         {"ref": "caroncomb.alt","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
+      "anchors": [        {
+          "y": 153, 
+          "name": "_caron.alt"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -19,13 +30,24 @@
       "shapes": [
         {"ref": "caroncomb.alt","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "1efa3810-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 250, 
+          "y": 143, 
+          "name": "_caron.alt"
+}
+], 
+      "_background": "333a0412-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa3810-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a0412-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
         {"ref": "caroncomb.alt","_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
+      "anchors": [        {
+          "y": 143, 
+          "name": "_caron.alt"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -35,14 +57,25 @@
       "shapes": [
         {"ref": "caroncomb.alt", "transform": [1, 0, 0, 1, 250, 0]}
       ], 
-      "_background": "1efa3964-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 162, 
+          "y": 153, 
+          "name": "_caron.alt"
+}
+], 
+      "_background": "333a05b6-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa3964-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a05b6-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 500, 
       "shapes": [
         {"ref": "caroncomb.alt", "transform": [1, 0, 0, 1, 88, 0]}
       ], 
+      "anchors": [        {
+          "y": 153, 
+          "name": "_caron.alt"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -51,13 +84,75 @@
       "shapes": [
         {"ref": "caroncomb.alt", "transform": [1, 0, 0, 1, 88, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
-      "_background": "1efa3aea-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 143, 
+          "name": "_caron.alt"
+}
+], 
+      "_background": "333a076e-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efa3aea-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333a076e-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
         {"ref": "caroncomb.alt", "transform": [1, 0, 0, 1, 88, 0]}
       ], 
+      "anchors": [        {
+          "y": 143, 
+          "name": "_caron.alt"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+        {"ref": "caroncomb.alt","_":{"com.glyphsapp":{"alignment":-1}}}
+      ], 
+      "anchors": [        {
+          "x": 250, 
+          "y": 148, 
+          "name": "_caron.alt"
+}
+], 
+      "_background": "333a08fe-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333a08fe-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+        {"ref": "caroncomb.alt","_":{"com.glyphsapp":{"alignment":-1}}}
+      ], 
+      "anchors": [        {
+          "y": 148, 
+          "name": "_caron.alt"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+        {"ref": "caroncomb.alt", "transform": [1, 0, 0, 1, 88, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
+      ], 
+      "anchors": [        {
+          "x": 162, 
+          "y": 153, 
+          "name": "_caron.alt"
+}
+], 
+      "_background": "333a0a98-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333a0a98-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+        {"ref": "caroncomb.alt", "transform": [1, 0, 0, 1, 88, 0]}
+      ], 
+      "anchors": [        {
+          "y": 153, 
+          "name": "_caron.alt"
+}
+], 
       "isBackground": True
 }
 ]

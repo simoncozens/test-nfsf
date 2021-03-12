@@ -7,16 +7,24 @@
 }
 
       ], 
-      "_background": "1f0581e8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "name": "_bottomright"
+}
+], 
+      "_background": "334c997e-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f0581e8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c997e-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[116,-130,"l"], [116,37,"l"], [0,37,"l"], [0,0,"l"], [76,0,"l"], [76,-130,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "name": "_bottomright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -28,16 +36,24 @@
 }
 
       ], 
-      "_background": "1f058300-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "name": "_bottomright"
+}
+], 
+      "_background": "334c9aaa-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f058300-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c9aaa-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[279,-130,"l"], [279,152,"l"], [0,152,"l"], [0,0,"l"], [104,0,"l"], [104,-130,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "name": "_bottomright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -50,10 +66,15 @@
 }
 
       ], 
-      "_background": "1f0583fa-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": -39, 
+          "name": "_bottomright"
+}
+], 
+      "_background": "334c9bfe-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f0583fa-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c9bfe-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 38, 
       "shapes": [
                 {
@@ -61,6 +82,11 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": -38, 
+          "name": "_bottomright"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -73,10 +99,15 @@
 }
 
       ], 
-      "_background": "1f0584ea-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": -39, 
+          "name": "_bottomright"
+}
+], 
+      "_background": "334c9d16-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f0584ea-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c9d16-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 39, 
       "shapes": [
                 {
@@ -84,6 +115,74 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": -39, 
+          "name": "_bottomright"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[177,-138,"o"], [196,-119,"o"], [196,-82,"cs"], [196,37,"ls"], [196,74,"o"], [176,95,"o"], [139,95,"cs"], [-2,95,"l"], [-2,0,"l"], [90,0,"l"], [90,-82,"ls"], [90,-119,"o"], [110,-138,"o"], [143,-138,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": -2, 
+          "name": "_bottomright"
+}
+], 
+      "_background": "334c9e56-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "334c9e56-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[196,-130,"l"], [196,95,"l"], [-2,95,"l"], [-2,0,"l"], [90,0,"l"], [90,-130,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "name": "_bottomright"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 39, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[114,-138,"o"], [135,-121,"o"], [140,-87,"cs"], [159,32,"ls"], [165,71,"o"], [145,95,"o"], [105,95,"cs"], [-25,95,"l"], [-41,0,"l"], [48,0,"l"], [35,-78,"ls"], [28,-117,"o"], [47,-138,"o"], [79,-138,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": -41, 
+          "name": "_bottomright"
+}
+], 
+      "_background": "334c9f82-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "334c9f82-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 39, 
+      "shapes": [
+                {
+          "nodes": [[136,-130,"l"], [172,95,"l"], [-26,95,"l"], [-41,0,"l"], [51,0,"l"], [30,-130,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": -39, 
+          "name": "_bottomright"
+}
+], 
       "isBackground": True
 }
 ]

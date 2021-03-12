@@ -7,16 +7,26 @@
 }
 
       ], 
-      "_background": "1ef9c3a8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
+      "_background": "333950bc-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9c3a8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333950bc-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[172,507,"l"], [142,526,"l"], [-172,-17,"l"], [-142,-36,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -28,16 +38,26 @@
 }
 
       ], 
-      "_background": "1ef9c47a-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 247, 
+          "name": "_center"
+}
+], 
+      "_background": "333951de-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9c47a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333951de-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[219,517,"l"], [130,570,"l"], [-219,-23,"l"], [-130,-76,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 247, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -49,16 +69,26 @@
 }
 
       ], 
-      "_background": "1ef9c54c-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
+      "_background": "333952f6-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9c54c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333952f6-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[205,496,"l"], [177,518,"l"], [-204,-6,"l"], [-175,-29,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 245, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -70,16 +100,89 @@
 }
 
       ], 
-      "_background": "1ef9c628-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 250, 
+          "name": "_center"
+}
+], 
+      "_background": "333953fa-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ef9c628-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333953fa-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[256,505,"l"], [173,562,"l"], [-255,-7,"l"], [-172,-64,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 250, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[185,482,"ls"], [213,530,"o"], [143,569,"o"], [117,525,"cs"], [-185,9,"ls"], [-214,-40,"o"], [-145,-78,"o"], [-118,-33,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 246, 
+          "name": "_center"
+}
+], 
+      "_background": "33395512-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "33395512-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[201,510,"l"], [132,550,"l"], [-201,-18,"l"], [-132,-58,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 246, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[213,476,"ls"], [243,516,"o"], [188,558,"o"], [160,520,"cs"], [-211,18,"ls"], [-241,-23,"o"], [-185,-63,"o"], [-157,-26,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 1, 
+          "y": 248, 
+          "name": "_center"
+}
+], 
+      "_background": "33395620-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "33395620-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[231,501,"l"], [175,540,"l"], [-229,-7,"l"], [-173,-47,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 248, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ]

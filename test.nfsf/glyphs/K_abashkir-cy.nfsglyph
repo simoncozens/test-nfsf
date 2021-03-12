@@ -8,10 +8,10 @@
 }
 
       ], 
-      "_background": "1ee4d4b6-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "331621a0-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee4d4b6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "331621a0-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 738, 
       "shapes": [
         {"ref": "Ka-cy", "transform": [1, 0, 0, 1, 127, 0],"_":{"com.glyphsapp":{"alignment":-1}}}, 
@@ -29,10 +29,10 @@
 }
 
       ], 
-      "_background": "1ee4d6e6-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "331623ee-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee4d6e6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "331623ee-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 879, 
       "shapes": [
         {"ref": "Ka-cy", "transform": [1, 0, 0, 1, 140, 0],"_":{"com.glyphsapp":{"alignment":-1}}}, 
@@ -50,10 +50,10 @@
 }
 
       ], 
-      "_background": "1ee4d902-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "33162646-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee4d902-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33162646-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 738, 
       "shapes": [
         {"ref": "Ka-cy", "transform": [1, 0, 0, 1, 127, 0],"_":{"com.glyphsapp":{"alignment":-1}}}, 
@@ -71,14 +71,56 @@
 }
 
       ], 
-      "_background": "1ee4db50-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "_background": "33162894-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee4db50-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "33162894-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 879, 
       "shapes": [
         {"ref": "Ka-cy", "transform": [1, 0, 0, 1, 140, 0],"_":{"com.glyphsapp":{"alignment":-1}}}, 
         {"ref": "__Kabashkir-cy", "transform": [1, 0, 0, 1, -17, 0]}
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 809, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[317,-8,"o"], [339,16,"o"], [339,58,"cs"], [339,299,"l"], [431,299,"ls"], [498,299,"o"], [540,272,"o"], [572,203,"cs"], [651,33,"ls"], [687,-44,"o"], [807,-2,"o"], [765,83,"cs"], [683,251,"ls"], [640,339,"o"], [582,388,"o"], [496,401,"c"], [546,364,"l"], [714,621,"ls"], [762,694,"o"], [657,751,"o"], [612,680,"cs"], [428,389,"l"], [453,406,"l"], [339,406,"l"], [339,640,"ls"], [339,682,"o"], [316,705,"o"], [275,705,"cs"], [53,705,"ls"], [17,705,"o"], [-3,686,"o"], [-3,652,"cs"], [-3,618,"o"], [17,599,"o"], [53,599,"cs"], [211,599,"l"], [211,58,"ls"], [211,16,"o"], [234,-8,"o"], [275,-8,"cs"]]
+}
+
+      ], 
+      "_background": "33162ad8-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "33162ad8-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 809, 
+      "shapes": [
+        {"ref": "Ka-cy", "transform": [1, 0, 0, 1, 134, 0],"_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__Kabashkir-cy", "transform": [1, 0, 0, 1, -13, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
+      ], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 809, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[279,-8,"o"], [302,12,"o"], [309,53,"cs"], [348,299,"l"], [440,299,"ls"], [507,299,"o"], [544,272,"o"], [567,203,"cs"], [622,40,"ls"], [650,-43,"o"], [770,-9,"o"], [739,79,"cs"], [678,251,"ls"], [647,339,"o"], [599,388,"o"], [515,401,"c"], [570,364,"l"], [773,618,"ls"], [830,689,"o"], [735,749,"o"], [683,684,"cs"], [449,389,"l"], [472,406,"l"], [364,406,"l"], [401,634,"ls"], [408,679,"o"], [387,705,"o"], [345,705,"cs"], [126,705,"ls"], [86,705,"o"], [61,682,"o"], [61,643,"cs"], [61,615,"o"], [82,599,"o"], [119,599,"cs"], [267,599,"l"], [182,63,"ls"], [175,18,"o"], [196,-8,"o"], [238,-8,"cs"]]
+}
+
+      ], 
+      "_background": "33162d26-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "33162d26-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 809, 
+      "shapes": [
+        {"ref": "Ka-cy", "transform": [1, 0, 0, 1, 134, 0],"_":{"com.glyphsapp":{"alignment":-1}}}, 
+        {"ref": "__Kabashkir-cy", "transform": [1, 0, 0, 1, -13, 0],"_":{"com.glyphsapp":{"alignment":-1}}}
       ], 
       "isBackground": True
 }

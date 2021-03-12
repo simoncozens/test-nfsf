@@ -8,10 +8,16 @@
 }
 
       ], 
-      "_background": "1f056ac8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 375, 
+          "y": -8, 
+          "name": "_Qtail"
+}
+], 
+      "_background": "334c6e68-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f056ac8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c6e68-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 751, 
       "shapes": [
                 {
@@ -19,6 +25,12 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 375, 
+          "y": -8, 
+          "name": "_Qtail"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -31,10 +43,16 @@
 }
 
       ], 
-      "_background": "1f056bd6-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 404, 
+          "y": -10, 
+          "name": "_Qtail"
+}
+], 
+      "_background": "334c6fbc-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f056bd6-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c6fbc-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 806, 
       "shapes": [
                 {
@@ -42,6 +60,12 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 404, 
+          "y": -10, 
+          "name": "_Qtail"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -54,10 +78,16 @@
 }
 
       ], 
-      "_background": "1f056cf8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 335, 
+          "y": -8, 
+          "name": "_Qtail"
+}
+], 
+      "_background": "334c70f2-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f056cf8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c70f2-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 751, 
       "shapes": [
                 {
@@ -65,6 +95,12 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 335, 
+          "y": -8, 
+          "name": "_Qtail"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -77,10 +113,16 @@
 }
 
       ], 
-      "_background": "1f056e06-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 363, 
+          "y": -10, 
+          "name": "_Qtail"
+}
+], 
+      "_background": "334c7228-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1f056e06-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "334c7228-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 806, 
       "shapes": [
                 {
@@ -88,6 +130,82 @@
 }
 
       ], 
+      "anchors": [        {
+          "x": 363, 
+          "y": -10, 
+          "name": "_Qtail"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 779, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[707,-184,"o"], [661,-112,"cs"], [618,-44,"ls"], [583,11,"o"], [551,30,"o"], [489,30,"c"], [390,-9,"l"], [435,-9,"o"], [466,-24,"o"], [485,-55,"cs"], [554,-166,"ls"], [598,-237,"o"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 390, 
+          "y": -9, 
+          "name": "_Qtail"
+}
+], 
+      "_background": "334c7372-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "334c7372-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 779, 
+      "shapes": [
+                {
+          "nodes": [[691,-160,"l"], [618,-44,"ls"], [586,11,"o"], [551,30,"o"], [489,30,"c"], [390,-9,"l"], [435,-9,"o"], [466,-25,"o"], [485,-55,"cs"], [582,-212,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 390, 
+          "y": -9, 
+          "name": "_Qtail"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 779, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[644,-198,"o"], [605,-117,"cs"], [571,-44,"ls"], [545,10,"o"], [510,29,"o"], [453,30,"c"], [349,-9,"l"], [405,-9,"o"], [433,-25,"o"], [450,-62,"cs"], [496,-163,"ls"], [531,-239,"o"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 349, 
+          "y": -9, 
+          "name": "_Qtail"
+}
+], 
+      "_background": "334c74b2-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "334c74b2-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 779, 
+      "shapes": [
+                {
+          "nodes": [[630,-171,"l"], [571,-44,"ls"], [546,10,"o"], [510,29,"o"], [453,30,"c"], [349,-9,"l"], [405,-9,"o"], [432,-25,"o"], [450,-62,"cs"], [520,-212,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "x": 349, 
+          "y": -9, 
+          "name": "_Qtail"
+}
+], 
       "isBackground": True
 }
 ]

@@ -6,15 +6,27 @@
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 490, 0]}
       ], 
-      "_background": "1ecbe212-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 320, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32ec8f48-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ecbe212-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32ec8f48-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 570, 
       "shapes": [
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 490, 0]}
       ], 
+      "anchors": [        {
+          "x": 320, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -25,15 +37,27 @@
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 506, 0]}
       ], 
-      "_background": "1ecbe424-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 336, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32ec91b4-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ecbe424-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32ec91b4-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 624, 
       "shapes": [
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 506, 0]}
       ], 
+      "anchors": [        {
+          "x": 336, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -44,15 +68,27 @@
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 449, 0]}
       ], 
-      "_background": "1ecbe62c-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 396, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32ec9402-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ecbe62c-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32ec9402-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 570, 
       "shapes": [
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 449, 0]}
       ], 
+      "anchors": [        {
+          "x": 396, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -63,15 +99,89 @@
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 462, 0]}
       ], 
-      "_background": "1ecbe910-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 405, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32ec966e-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ecbe910-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "32ec966e-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 624, 
       "shapes": [
         {"ref": "E"}, 
         {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 462, 0]}
       ], 
+      "anchors": [        {
+          "x": 405, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 597, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+        {"ref": "E"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 498, 0]}
+      ], 
+      "anchors": [        {
+          "x": 328, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32ec98e4-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "32ec98e4-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 597, 
+      "shapes": [
+        {"ref": "E"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 498, 0]}
+      ], 
+      "anchors": [        {
+          "x": 328, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 597, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+        {"ref": "E"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 456, 0]}
+      ], 
+      "anchors": [        {
+          "x": 401, 
+          "y": 705, 
+          "name": "top"
+}
+], 
+      "_background": "32ec9b3c-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "32ec9b3c-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 597, 
+      "shapes": [
+        {"ref": "E"}, 
+        {"ref": "ogonekcomb", "transform": [1, 0, 0, 1, 456, 0]}
+      ], 
+      "anchors": [        {
+          "x": 401, 
+          "y": 705, 
+          "name": "top"
+}
+], 
       "isBackground": True
 }
 ]

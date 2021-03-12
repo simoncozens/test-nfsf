@@ -6,15 +6,25 @@
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 306, 0]}
       ], 
-      "_background": "1ee2bd98-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 259, 
+          "name": "caret_1"
+}
+], 
+      "_background": "3312b47a-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2bd98-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3312b47a-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 518, 
       "shapes": [
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 306, 0]}
       ], 
+      "anchors": [        {
+          "x": 243.706, 
+          "name": "caret_1"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -25,15 +35,25 @@
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 423, 0]}
       ], 
-      "_background": "1ee2bfc8-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 359.5, 
+          "name": "caret_1"
+}
+], 
+      "_background": "3312b6dc-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2bfc8-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3312b6dc-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 719, 
       "shapes": [
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 423, 0]}
       ], 
+      "anchors": [        {
+          "x": 338.271, 
+          "name": "caret_1"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -44,15 +64,25 @@
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 306, 0]}
       ], 
-      "_background": "1ee2c1da-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 259, 
+          "name": "caret_1"
+}
+], 
+      "_background": "3312b934-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2c1da-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3312b934-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 518, 
       "shapes": [
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 306, 0]}
       ], 
+      "anchors": [        {
+          "x": 243.706, 
+          "name": "caret_1"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -63,15 +93,83 @@
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 423, 0]}
       ], 
-      "_background": "1ee2c40a-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "x": 359.5, 
+          "name": "caret_1"
+}
+], 
+      "_background": "3312bb8c-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1ee2c40a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "3312bb8c-835c-11eb-8a57-3c7d0a0dfbfe", 
       "width": 719, 
       "shapes": [
         {"ref": "f"}, 
         {"ref": "l.ss02", "transform": [1, 0, 0, 1, 423, 0]}
       ], 
+      "anchors": [        {
+          "x": 338.271, 
+          "name": "caret_1"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "width": 618, 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+        {"ref": "f"}, 
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 364, 0]}
+      ], 
+      "anchors": [        {
+          "x": 309, 
+          "name": "caret_1"
+}
+], 
+      "_background": "3312bdee-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3312bdee-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 618, 
+      "shapes": [
+        {"ref": "f"}, 
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 364, 0]}
+      ], 
+      "anchors": [        {
+          "x": 290.753, 
+          "name": "caret_1"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "width": 618, 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+        {"ref": "f"}, 
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 364, 0]}
+      ], 
+      "anchors": [        {
+          "x": 309, 
+          "name": "caret_1"
+}
+], 
+      "_background": "3312c032-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "3312c032-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "width": 618, 
+      "shapes": [
+        {"ref": "f"}, 
+        {"ref": "l.ss02", "transform": [1, 0, 0, 1, 364, 0]}
+      ], 
+      "anchors": [        {
+          "x": 290.753, 
+          "name": "caret_1"
+}
+], 
       "isBackground": True
 }
 ]

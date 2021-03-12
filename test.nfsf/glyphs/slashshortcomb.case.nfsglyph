@@ -7,16 +7,26 @@
 }
 
       ], 
-      "_background": "1efaf976-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 385, 
+          "name": "_center"
+}
+], 
+      "_background": "333b7266-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efaf976-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b7266-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[171,462,"l"], [151,495,"l"], [-173,309,"l"], [-153,275,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 385, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -28,16 +38,26 @@
 }
 
       ], 
-      "_background": "1efafa3e-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 382, 
+          "name": "_center"
+}
+], 
+      "_background": "333b73a6-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efafa3e-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b73a6-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[276,450,"l"], [200,587,"l"], [-275,312,"l"], [-200,176,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 382, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -49,16 +69,26 @@
 }
 
       ], 
-      "_background": "1efafb1a-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 385, 
+          "name": "_center"
+}
+], 
+      "_background": "333b74c8-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efafb1a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b74c8-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[175,447,"l"], [158,481,"l"], [-181,324,"l"], [-164,290,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 383, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ,     {
@@ -70,16 +100,88 @@
 }
 
       ], 
-      "_background": "1efafc0a-6a2e-11eb-8d73-3c7d0a0dfbfe"
+      "anchors": [        {
+          "y": 382, 
+          "name": "_center"
+}
+], 
+      "_background": "333b76f8-835c-11eb-8a57-3c7d0a0dfbfe"
 }
 ,     {
-      "id": "1efafc0a-6a2e-11eb-8d73-3c7d0a0dfbfe", 
+      "id": "333b76f8-835c-11eb-8a57-3c7d0a0dfbfe", 
       "shapes": [
                 {
           "nodes": [[270,426,"l"], [206,569,"l"], [-292,336,"l"], [-228,193,"l"]]
 }
 
       ], 
+      "anchors": [        {
+          "y": 382, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "_master": "18203F29-5161-4D9B-8394-C173CC5E27D4", 
+      "shapes": [
+                {
+          "nodes": [[192,437,"ls"], [254,473,"o"], [206,559,"o"], [144,523,"cs"], [-191,330,"ls"], [-253,294,"o"], [-205,209,"o"], [-143,245,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 384, 
+          "name": "_center"
+}
+], 
+      "_background": "333b7824-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333b7824-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[224,456,"l"], [176,541,"l"], [-224,311,"l"], [-176,226,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 384, 
+          "name": "_center"
+}
+], 
+      "isBackground": True
+}
+,     {
+      "id": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "_master": "8FF16B21-C988-4EC9-A448-39B9B4A4BD78", 
+      "shapes": [
+                {
+          "nodes": [[186,420,"ls"], [251,450,"o"], [210,538,"o"], [146,508,"cs"], [-200,347,"ls"], [-265,317,"o"], [-223,229,"o"], [-159,259,"cs"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 384, 
+          "name": "_center"
+}
+], 
+      "_background": "333b793c-835c-11eb-8a57-3c7d0a0dfbfe"
+}
+,     {
+      "id": "333b793c-835c-11eb-8a57-3c7d0a0dfbfe", 
+      "shapes": [
+                {
+          "nodes": [[223,437,"l"], [182,525,"l"], [-236,330,"l"], [-196,242,"l"]]
+}
+
+      ], 
+      "anchors": [        {
+          "y": 383, 
+          "name": "_center"
+}
+], 
       "isBackground": True
 }
 ]
